@@ -23,4 +23,16 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0015-3sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
