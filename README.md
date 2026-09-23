@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0596-classes-with-at-least-5-students) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1757-recyclable-and-low-fat-products) |
 ## Math
 |  |
 | ------- |
