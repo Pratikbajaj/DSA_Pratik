@@ -17,6 +17,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -35,6 +36,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +58,24 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
