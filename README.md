@@ -26,6 +26,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
