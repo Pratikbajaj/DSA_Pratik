@@ -44,6 +44,7 @@
 | [0027-remove-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0027-remove-element) |
 | [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
