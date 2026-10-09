@@ -61,14 +61,17 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1021-remove-outermost-parentheses) |
 ## Enumeration
 |  |
 | ------- |
