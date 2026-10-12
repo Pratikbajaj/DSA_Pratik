@@ -40,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0027-remove-element) |
@@ -106,10 +107,15 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
