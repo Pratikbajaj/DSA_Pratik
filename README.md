@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0225-implement-stack-using-queues) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -120,4 +121,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0004-median-of-two-sorted-arrays) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
