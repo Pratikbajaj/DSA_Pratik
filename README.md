@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0058-length-of-last-word) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
