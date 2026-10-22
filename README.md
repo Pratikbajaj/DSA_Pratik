@@ -136,4 +136,20 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0225-implement-stack-using-queues) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
