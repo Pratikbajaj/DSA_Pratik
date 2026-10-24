@@ -49,6 +49,7 @@
 | [0027-remove-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
@@ -59,10 +60,12 @@
 | [0015-3sum](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
 ## String
 |  |
