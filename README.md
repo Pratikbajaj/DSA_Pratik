@@ -52,6 +52,7 @@
 | [0035-search-insert-position](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0136-single-number) |
+| [0164-maximum-gap](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0485-max-consecutive-ones) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -157,4 +159,16 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
