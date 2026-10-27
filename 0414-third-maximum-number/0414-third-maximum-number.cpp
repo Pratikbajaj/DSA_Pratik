@@ -5,9 +5,9 @@ public:
         long long max2 = LLONG_MIN;      
         long long max3 = LLONG_MIN;      
         for(int i=0;i<nums.size();i++){
-            if(max1==nums[i]||max2==nums[i]||max3==nums[i]){
-                continue;
-            }
+            // if(max1==nums[i]||max2==nums[i]||max3==nums[i]){
+            //     continue;
+            // }
             if(max1<nums[i]){
                 max3 = max2;
                 max2 = max1;
