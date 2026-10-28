@@ -53,6 +53,7 @@
 | [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0414-third-maximum-number) |
@@ -70,6 +71,7 @@
 | [0015-3sum](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0414-third-maximum-number) |
 ## String
@@ -120,6 +122,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -137,6 +140,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
 ## Design
 |  |
 | ------- |
@@ -173,4 +177,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
