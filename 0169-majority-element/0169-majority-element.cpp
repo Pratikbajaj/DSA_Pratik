@@ -9,7 +9,7 @@ public:
         }
         for(auto it:num){
             cout<<it.second<<endl;
-            if(it.second>maxi){
+            if(it.second>nums.size()/2){
                 val = it.first;
                 maxi=it.second;
             }
