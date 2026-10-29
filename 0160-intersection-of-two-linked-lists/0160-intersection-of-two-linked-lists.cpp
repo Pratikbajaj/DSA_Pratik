@@ -9,6 +9,8 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+            std::ios_base::sync_with_stdio(false);
+    std::cin.tie(nullptr);
         ListNode* temp1 = headA;
         ListNode* temp2 = headB;
         while(temp1!=nullptr){
