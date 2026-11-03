@@ -25,23 +25,3 @@ public:
         return Checker(root,LLONG_MIN,LLONG_MAX);
     }
 };
-// class Solution {
-// public:
-//     bool Checker(TreeNode* root, long long min, long long max) {
-
-//         if(root == nullptr) {
-//             return true;
-//         }
-
-//         if(root->val <= min || root->val >= max) {
-//             return false;
-//         }
-
-//         return Checker(root->left, min, root->val) &&
-//                Checker(root->right, root->val, max);
-//     }
-
-//     bool isValidBST(TreeNode* root) {
-//         return Checker(root, LLONG_MIN, LLONG_MAX);
-//     }
-// };
