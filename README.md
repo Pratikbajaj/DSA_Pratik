@@ -28,6 +28,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -80,12 +81,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0058-length-of-last-word) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0145-binary-tree-postorder-traversal) |
@@ -95,6 +98,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1021-remove-outermost-parentheses) |
 ## Enumeration
 |  |
