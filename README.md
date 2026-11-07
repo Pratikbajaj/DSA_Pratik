@@ -61,6 +61,7 @@
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
