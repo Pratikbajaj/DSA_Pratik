@@ -59,6 +59,7 @@
 | [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0704-binary-search) |
@@ -71,6 +72,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [0164-maximum-gap](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0414-third-maximum-number) |
 ## String
 |  |
@@ -140,6 +143,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +151,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
