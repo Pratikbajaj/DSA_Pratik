@@ -103,6 +103,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0232-implement-queue-using-stacks) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -191,6 +192,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0226-invert-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0226-invert-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
