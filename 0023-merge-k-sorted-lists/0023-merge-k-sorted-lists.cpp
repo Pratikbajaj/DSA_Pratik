@@ -13,19 +13,24 @@ public:
     ListNode* mergeTwo(ListNode* a,ListNode* b){
         ListNode dummy;
         ListNode* tail = &dummy;
+
         while(a!=nullptr && b!=nullptr){
-            if(a->val < b->val ){
+            if(a->val < b->val){
                 tail->next = a;
                 a = a->next;
-            }else{
+            }
+            else{
                 tail->next = b;
                 b = b->next;
             }
             tail = tail->next;
         }
-        if(a!=nullptr) tail->next = a;
-        else tail->next = b;
 
+        if(a!=nullptr){
+            tail->next = a;
+        }else{
+            tail->next = b;
+        }
         return dummy.next;
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
