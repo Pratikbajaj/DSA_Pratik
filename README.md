@@ -96,6 +96,7 @@
 | [0020-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0058-length-of-last-word) |
+| [0316-remove-duplicate-letters](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0316-remove-duplicate-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -107,6 +108,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0232-implement-queue-using-stacks) |
+| [0316-remove-duplicate-letters](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0316-remove-duplicate-letters) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
@@ -254,4 +256,12 @@
 | ------- |
 | [0506-relative-ranks](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
