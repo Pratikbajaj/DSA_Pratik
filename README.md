@@ -142,6 +142,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
 ## Design
@@ -259,6 +261,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0023-merge-k-sorted-lists) |
 | [0506-relative-ranks](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
@@ -269,4 +272,12 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0316-remove-duplicate-letters) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
