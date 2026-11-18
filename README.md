@@ -68,6 +68,7 @@
 | [0485-max-consecutive-ones](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0946-validate-stack-sequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -118,6 +119,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0316-remove-duplicate-letters) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0735-asteroid-collision](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
@@ -294,6 +296,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0946-validate-stack-sequences) |
 ## Matrix
 |  |
