@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -52,6 +53,7 @@
 | [0027-remove-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0136-single-number) |
@@ -72,6 +74,7 @@
 | [0015-3sum](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0160-intersection-of-two-linked-lists) |
@@ -103,6 +106,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0144-binary-tree-preorder-traversal) |
@@ -271,6 +275,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0316-remove-duplicate-letters) |
 ## Merge Sort
 |  |
