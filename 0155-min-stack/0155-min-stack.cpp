@@ -24,6 +24,7 @@ public:
     }
     
     int getMin() {
+        if(st.empty()) return -1;
         return mn.top();
     }
 };
