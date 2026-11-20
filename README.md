@@ -61,6 +61,7 @@
 | [0164-maximum-gap](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -91,6 +92,7 @@
 | [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -168,6 +170,7 @@
 | [0001-two-sum](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0350-intersection-of-two-arrays-ii) |
