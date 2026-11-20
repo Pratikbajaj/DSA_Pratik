@@ -56,6 +56,7 @@
 | [0035-search-insert-position](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0136-single-number) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
@@ -331,4 +333,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0347-top-k-frequent-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
