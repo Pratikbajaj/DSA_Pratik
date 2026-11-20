@@ -55,6 +55,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0136-single-number) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
@@ -105,6 +107,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0316-remove-duplicate-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1021-remove-outermost-parentheses) |
@@ -168,6 +171,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0217-contains-duplicate) |
