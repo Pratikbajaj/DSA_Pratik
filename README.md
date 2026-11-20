@@ -62,6 +62,7 @@
 | [0164-maximum-gap](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0347-top-k-frequent-elements) |
@@ -95,6 +96,7 @@
 | [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0347-top-k-frequent-elements) |
@@ -204,6 +206,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
@@ -292,6 +295,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0506-relative-ranks) |
@@ -325,5 +329,6 @@
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
