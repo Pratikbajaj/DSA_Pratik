@@ -77,6 +77,7 @@
 | [0735-asteroid-collision](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0946-validate-stack-sequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0414-third-maximum-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Binary Search
 |  |
 | ------- |
