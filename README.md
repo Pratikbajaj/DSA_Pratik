@@ -77,6 +77,7 @@
 | [0506-relative-ranks](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0946-validate-stack-sequences) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -139,6 +140,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0316-remove-duplicate-letters) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1021-remove-outermost-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -322,6 +324,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0739-daily-temperatures) |
 ## Merge Sort
 |  |
 | ------- |
