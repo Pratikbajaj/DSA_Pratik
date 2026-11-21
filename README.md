@@ -22,6 +22,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0507-perfect-number) |
@@ -60,6 +61,7 @@
 | [0088-merge-sorted-array](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0204-count-primes) |
@@ -130,6 +132,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0232-implement-queue-using-stacks) |
