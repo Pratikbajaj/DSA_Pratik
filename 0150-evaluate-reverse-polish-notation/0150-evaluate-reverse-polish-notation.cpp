@@ -11,17 +11,13 @@ public:
                 op2 = st.top();
                 st.pop();
                 if(c=="+"){
-                    int op3 = op2 + op1;
-                    st.push(op3);
+                    st.push(op2 + op1);
                 }else if(c=="-"){
-                    int op3 = op2 - op1;
-                    st.push(op3);
+                    st.push(op2 - op1);
                 }else if(c=="*"){
-                    int op3 = op2 * op1;
-                    st.push(op3);
+                    st.push(op2 * op1);
                 }else if(c=="/"){
-                    int op3 = op2 / op1;
-                    st.push(op3);
+                    st.push(op2 / op1);
                 }
             }
             else{
