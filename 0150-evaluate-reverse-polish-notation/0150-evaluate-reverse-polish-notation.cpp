@@ -5,34 +5,24 @@ public:
         int total = 0;
         int op2,op1;
         for(const string& c :tokens){
-            if(c=="+"){
+            if(c=="+"||c=="-"||c=="*"||c=="/"){
                 op1 = st.top();
                 st.pop();
                 op2 = st.top();
                 st.pop();
-                int op3 = op2 + op1;
-                st.push(op3);
-            }else if(c=="-"){
-                op1 = st.top();
-                st.pop();
-                op2 = st.top();
-                st.pop();
-                int op3 = op2 - op1;
-                st.push(op3);
-            }else if(c=="*"){
-                op1 = st.top();
-                st.pop();
-                op2 = st.top();
-                st.pop();
-                int op3 = op2 * op1;
-                st.push(op3);
-            }else if(c=="/"){
-                op1 = st.top();
-                st.pop();
-                op2 = st.top();
-                st.pop();
-                int op3 = op2 / op1;
-                st.push(op3);
+                if(c=="+"){
+                    int op3 = op2 + op1;
+                    st.push(op3);
+                }else if(c=="-"){
+                    int op3 = op2 - op1;
+                    st.push(op3);
+                }else if(c=="*"){
+                    int op3 = op2 * op1;
+                    st.push(op3);
+                }else if(c=="/"){
+                    int op3 = op2 / op1;
+                    st.push(op3);
+                }
             }
             else{
                 st.push(stoi(c));
