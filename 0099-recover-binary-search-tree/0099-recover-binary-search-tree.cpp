@@ -13,10 +13,10 @@ class Solution {
 public:
     TreeNode *prev = NULL , *first = NULL , *second = NULL;
     void rec(TreeNode* r){
-        if(!r) return;
+        if(r==nullptr) return;
         rec(r->left);
-        if(prev && prev->val > r->val){
-            if(!first) first =prev;
+        if(prev!=nullptr && prev->val > r->val){
+            if(first==nullptr) first =prev;
             second = r;
         }
         prev = r;
