@@ -135,6 +135,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0316-remove-duplicate-letters) |
@@ -227,6 +228,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0232-implement-queue-using-stacks) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -250,6 +252,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -290,6 +293,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Bucket Sort
@@ -321,6 +325,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Heap (Priority Queue)
 |  |
@@ -367,4 +372,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0056-merge-intervals) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
