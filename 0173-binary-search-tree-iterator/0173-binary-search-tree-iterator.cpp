@@ -9,31 +9,56 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+// class BSTIterator {
+//     stack<TreeNode*> st;
+// public:
+//     BSTIterator(TreeNode* root) {
+//         pushLeft(root);
+//     }
+    
+//     int next() {
+//         TreeNode *t = st.top();
+//         st.pop();
+//         pushLeft(t->right);
+//         return t->val;
+//     }
+    
+//     bool hasNext() {
+//         return !st.empty();
+//     }
+//     void pushLeft(TreeNode* r){
+//         while(r!=NULL){
+//             st.push(r);
+//             r = r->left;
+//         }
+//     }
+// };
+
 class BSTIterator {
-    stack<TreeNode*> st;
 public:
+    stack<TreeNode*>st;
     BSTIterator(TreeNode* root) {
-        pushLeft(root);
+        pushall(root);
     }
     
     int next() {
-        TreeNode *t = st.top();
+        TreeNode* node=st.top();
         st.pop();
-        pushLeft(t->right);
-        return t->val;
+        pushall(node->right);
+        return node->val;
     }
     
     bool hasNext() {
         return !st.empty();
     }
-    void pushLeft(TreeNode* r){
-        while(r!=NULL){
-            st.push(r);
-            r = r->left;
+
+    void pushall(TreeNode* node){
+        while(node!=NULL){
+            st.push(node);
+            node=node->left;
         }
     }
 };
-
 /**
  * Your BSTIterator object will be instantiated and called as such:
  * BSTIterator* obj = new BSTIterator(root);
