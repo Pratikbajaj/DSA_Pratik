@@ -17,7 +17,7 @@ public:
     }
     
     int next() {
-        TreeNode* t = st.top();
+        TreeNode *t = st.top();
         st.pop();
         pushLeft(t->right);
         return t->val;
@@ -27,7 +27,7 @@ public:
         return !st.empty();
     }
     void pushLeft(TreeNode* r){
-        while(r){
+        while(r!=NULL){
             st.push(r);
             r = r->left;
         }
