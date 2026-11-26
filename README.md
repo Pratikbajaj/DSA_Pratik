@@ -256,6 +256,7 @@
 | [0226-invert-binary-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -296,6 +297,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0700-search-in-a-binary-search-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -327,6 +329,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Pratikbajaj/DSA_Pratik/tree/master/0700-search-in-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
